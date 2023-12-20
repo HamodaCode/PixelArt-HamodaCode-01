@@ -1,2 +1,3 @@
 # PixelArt-HamodaCode-01
-Html Css Js
+Coding in the game
+his : Html Css Js
